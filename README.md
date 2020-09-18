@@ -9,7 +9,7 @@ Walmart has collected data of internal and external factors of 45 store to deter
 | Members  | Username |
 | ------------- | ------------- |
 |  Lokesh Arora | @lokesh2334 |
-| Ankita Shinde  |  |
+| Ankita Shinde  | @ankita1598 |
 
 ### Data Dictionary
 
