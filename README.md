@@ -15,14 +15,16 @@ Walmart has collected data of internal and external factors of 45 store to deter
 
 | Sr. No | Field Name | Data Type | Data format | Description | Accepts Null values? |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
+| 1 | Store | Integer | 1-45 | Describes the store number | N |
+| 2 | Department | Integer | 1-98 | Describes the department number | N |
+| 3 | Date | Date/Time | mm/dd/yy | Date | Y |
+| 4 | Weekly_sales | Double | NN.NN | Sales for the given department for the given store | N |
+| 5 | IsHoliday | Boolean | TRUE/FALSE | Describes whether the week is a special holiday week  | N |
+| 6 | Temperature | Double | NN.NN | Describes the average temperature in the region | N |
+| 7 | Fuel Price | Double | NN.NN | Cost of fuel in the region | N |
+| 8 | Markdown(1-5) | Double | NN.NN | Anonymized data related to promotional markdowns that Walmart is running | Y |
+| 9 | CPI | Double | NN.NN | Consumer Price Index | N |
+| 10 | Unemployment | Double | NN.NN | The Unemployment rate | N |
 
 
 ### SPAP plan for the Project
