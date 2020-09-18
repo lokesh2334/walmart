@@ -35,7 +35,7 @@ The dataset consists of 13 columns and 421570 rows.
 
 **Dependent Variable:** Weekly Sales
 
-**Specific Questions:**
+**Specific Questions:** Q1: Do the markdowns during a specific holiday improve the weekly sales of a particular department?, Q2: Does external factors for the week affect the sales of a store for that week?
 
 **Independent Variable:** Unemployment rate, CPI, Markdown1, Markdown2, Markdown3, Markdown4, Fuel rate, Temperature, IsHoliday, Size, date, Store, and department.
 
