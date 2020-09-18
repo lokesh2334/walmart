@@ -21,8 +21,13 @@ Walmart has collected data of internal and external factors of 45 store to deter
 
 
 ### SPAP
+
 **Goal:** Predict Weekly sales of Walmart
+
 **Dependent Variable:** Weekly Sales
+
 **Specific Questions:**
+
 **Independent Variable:** Unemployment rate, CPI, Markdown1, Markdown2, Markdown3, Markdown4, Fuel rate, Temperature, IsHoliday, Size, date, Store, and department.
+
 **Specific Analysis and Graphs:** Weekly sales by store, Weekly sales by Department, Overall monthly sales, Top performing departments and least performing department.
