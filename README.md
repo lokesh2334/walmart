@@ -38,3 +38,6 @@ Walmart has collected data of internal and external factors of 45 store to deter
 **Independent Variable:** Unemployment rate, CPI, Markdown1, Markdown2, Markdown3, Markdown4, Fuel rate, Temperature, IsHoliday, Size, date, Store, and department.
 
 **Specific Analysis and Graphs:** Weekly sales by store, Weekly sales by Department, Overall monthly sales, Top performing departments and least performing department.
+
+### References
+[https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/overview](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/overview)
