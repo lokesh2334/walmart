@@ -13,6 +13,8 @@ Walmart has collected data of internal and external factors of 45 store to deter
 
 ### Data Dictionary
 
+The dataset consists of 13 columns and 421570 rows.
+
 | Sr. No | Field Name | Data Type | Data format | Description | Accepts Null values? |
 | ------ | ------ | ------ | ------ | ------ | ------ |
 | 1 | Store | Integer | 1-45 | Describes the store number | N |
