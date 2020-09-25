@@ -29,6 +29,37 @@ The dataset consists of 13 columns and 421570 rows.
 | 10 | Unemployment | Double | NN.NN | The Unemployment rate | N |
 
 
+### SPAP plan for the Project
+
+**Goal:** Predict Weekly sales of Walmart
+
+**Dependent Variable:** Weekly Sales
+
+**Specific Questions:** Q1: Do the markdowns during a specific holiday improve the weekly sales of a particular department?, Q2: Does external factors for the week affect the sales of a store for that week?
+
+**Independent Variable:** Unemployment rate, CPI, Markdown1, Markdown2, Markdown3, Markdown4, Fuel rate, Temperature, IsHoliday, Size, date, Store, and department.
+
+**Specific Analysis and Graphs:** Weekly sales by store, Weekly sales by Department, Overall monthly sales, Top performing departments, and least performing department.
+
+### Key Performance Indicators (KPI’s)
+
+
+The KPI’s for our project are as follows -
+
+1. What is your desired outcome?
+
+2. Why does this outcome matter?
+
+3. How are you going to measure progress?
+
+4. How can you influence the outcome?
+
+5. Who is responsible for the outcome?
+
+6. How will you know you have achieved the outcome?
+
+7. How often will you review progress towards the outcome?
+
 ### Hypothesis
 
 **Department:** The sales of a specific department within a store will increase when markdowns are introduced, especially during special holidays.
@@ -42,19 +73,6 @@ The dataset consists of 13 columns and 421570 rows.
 **Consumer Price Index:** The CPI will decrease during holidays and when markdowns are introduced leading to improved weekly sales.
 
 **Markdowns:** Markdowns will improve the sales in all the stores.
-
-
-### SPAP plan for the Project
-
-**Goal:** Predict Weekly sales of Walmart
-
-**Dependent Variable:** Weekly Sales
-
-**Specific Questions:** Q1: Do the markdowns during a specific holiday improve the weekly sales of a particular department?, Q2: Does external factors for the week affect the sales of a store for that week?
-
-**Independent Variable:** Unemployment rate, CPI, Markdown1, Markdown2, Markdown3, Markdown4, Fuel rate, Temperature, IsHoliday, Size, date, Store, and department.
-
-**Specific Analysis and Graphs:** Weekly sales by store, Weekly sales by Department, Overall monthly sales, Top performing departments, and least performing department.
 
 ### References
 [https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/overview](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/overview)
