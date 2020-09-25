@@ -29,6 +29,21 @@ The dataset consists of 13 columns and 421570 rows.
 | 10 | Unemployment | Double | NN.NN | The Unemployment rate | N |
 
 
+### Hypothesis
+
+**Department:** The sales of a specific department within a store will increase when markdowns are introduced, especially during special holidays.
+
+**Weekly_Sales:** The weekly sales are affected negatively when the unemployment rate as well as CPI is high.
+
+**Is_holiday:** If it is a holiday week then most of the stores will have better weekly sales and a lower CPI.
+
+**Temperature:** If the average temperature decreases then the sales of stores are affected negatively.
+
+**Consumer Price Index:** The CPI will decrease during holidays and when markdowns are introduced leading to improved weekly sales.
+
+**Markdowns:** Markdowns will improve the sales in all the stores.
+
+
 ### SPAP plan for the Project
 
 **Goal:** Predict Weekly sales of Walmart
