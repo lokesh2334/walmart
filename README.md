@@ -46,19 +46,29 @@ The dataset consists of 13 columns and 421570 rows.
 
 The KPI’s for our project are as follows -
 
-1. What is your desired outcome?
+ - **Weekly Sales to Markdown ratio**
+ - **Sales of a deaprtment by store**
 
-2. Why does this outcome matter?
+**What is your desired outcome?**
+To increace weekly sales by intoducing new offers and promotions.
 
-3. How are you going to measure progress?
+**Why does this outcome matter?**
+The ratio of Weekly Sales to Markdown will tell us how the offers and promotions are working in order to increase the weekly sales of the store.
 
-4. How can you influence the outcome?
+**How are you going to measure progress?**
+Lower the ratio, greater the progress. When the ratio is low it meaning sales is good.
 
-5. Who is responsible for the outcome?
+**How can you influence the outcome?**
+We can influence the outcome by increasing the Markdown values.
 
-6. How will you know you have achieved the outcome?
+**Who is responsible for the outcome?**
+The Marketing team and PR team is responsible for the outcome.
 
-7. How often will you review progress towards the outcome?
+**How will you know you have achieved the outcome?**
+When the weekly sales are increasing over time and ratio is constant.
+
+**How often will you review progress towards the outcome?**
+In order to review progress we need to check the result every week or every 2 weeks.
 
 ### Hypothesis
 
