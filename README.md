@@ -50,24 +50,31 @@ The KPI’s for our project are as follows -
  - **Sales of a deaprtment by store**
 
 **What is your desired outcome?**
-To increace weekly sales by intoducing new offers and promotions.
+
+To increase weekly sales by intoducing new offers and promotions.
 
 **Why does this outcome matter?**
+
 The ratio of Weekly Sales to Markdown will tell us how the offers and promotions are working in order to increase the weekly sales of the store.
 
 **How are you going to measure progress?**
-Lower the ratio, greater the progress. When the ratio is low it meaning sales is good.
+
+Lower the ratio, greater the progress. When the ratio is low it means sales is good.
 
 **How can you influence the outcome?**
+
 We can influence the outcome by increasing the Markdown values.
 
 **Who is responsible for the outcome?**
+
 The Marketing team and PR team is responsible for the outcome.
 
 **How will you know you have achieved the outcome?**
+
 When the weekly sales are increasing over time and ratio is constant.
 
 **How often will you review progress towards the outcome?**
+
 In order to review progress we need to check the result every week or every 2 weeks.
 
 ### Hypothesis
