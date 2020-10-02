@@ -1,0 +1,44 @@
+---
+title: "MVA project"
+author: "Lokesh Arora, Ankita Shinde"
+date: "10/1/2020"
+output: pdf_document
+Github Link: https://github.com/lokesh2334/walmart
+---
+
+```{r}
+features = read.csv("features.csv",header = T)
+train = read.csv("train.csv",header = T)
+test = read.csv("test.csv",header = T)
+stores = read.csv("stores.csv",header = T)
+
+```
+```{r}
+dataset = merge(train,stores, by="Store")
+```
+
+```{r}
+#dataset = merge(dataset,features, by="Store")
+
+```
+```{r}
+library(lubridate)
+dataset$year <- year(ymd(dataset$Date))
+dataset$month <- month(ymd(dataset$Date)) 
+dataset$day <- day(ymd(dataset$Date))
+```
+```{r}
+library("plyr")
+month_wise =ddply(dataset, .(month), summarize,  Sales=mean(Weekly_Sales))
+barplot(month_wise$Sales, main="Monthly Sales", xlab="Month", ylab="Sales")
+```
+
+```{r}
+store_wise =ddply(dataset, .(Store), summarize,  Sales=mean(Weekly_Sales))
+
+barplot(store_wise$Sales, main="Store Sales", xlab="Stores", ylab="Sales")
+```
+```{r}
+dept_wise =ddply(dataset, .(Dept), summarize,  Sales=mean(Weekly_Sales))
+barplot(dept_wise$Sales, main="Sales by Department", xlab="Departments", ylab="Sales", names.arg = dept_wise$Dept )
+```
